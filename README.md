@@ -1,5 +1,4 @@
-# Ruqola-before-and-after-gsoc
-Screenshots of Ruqola application before and after GSoC'17.
+# Screenshots of Ruqola application before GSoC'17.
 
 [Login](https://github.com/VasudhaMathur/Ruqola-before-GSoC-screenshots/blob/master/12.PNG)
 
